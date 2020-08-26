@@ -24,7 +24,7 @@ Cooking. Traveling. Cubing. Cycling. Pokémon. Whatever. :joy:
  - :blush: Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
  - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!
 
-### Links
+### :link: Links
 
 - [Read more AMAs](https://github.com/sindresorhus/amas)
 - [Create your own AMA](https://github.com/sindresorhus/amas/blob/master/create-ama.md)
