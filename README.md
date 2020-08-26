@@ -5,7 +5,7 @@
 
 </h2>
 
-Hello!! My name is Utkarsh Sethi. You probably came to this repo by [Linkedin](https://www.linkedin.com/in/utkarshsethi/) or [twitter](https://twitter.com/HsraktuIhtes).
+:wave: Hello!! My name is Utkarsh Sethi. You probably came to this repo by [Linkedin](https://www.linkedin.com/in/utkarshsethi/) or [twitter](https://twitter.com/HsraktuIhtes).
 
 If I've missed replying, this repo is the one dedicated place where you can ask me anything and I will reply to you. 
 
@@ -22,7 +22,7 @@ Cooking. Traveling. Cubing. Cycling. Pokémon. Whatever. :joy:
  - :bug: Bugs & feature requests should be opened on the relevant issue tracker (i.e., on the issue tracker of the corresponding [GitHub](https://github.com/utkarshsethi/) repository).
  - :signal_strength: Support questions are better asked on [Stack Overflow](https://stackoverflow.com/).
  - :blush: Be nice, civil and polite ([as always](http://contributor-covenant.org/version/1/4/)).
- - :heart_eyes: If you include at least one emoji in your question, the feedback might come faster!
+ - :grey_exclamation: Kindly use the created [AMA Template](https://github.com/utkarshsethi/ama/blob/master/.github/ISSUE_TEMPLATE/ama.md).
 
 ### :link: Links
 
